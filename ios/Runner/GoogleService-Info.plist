@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>42366242598-db3ii3pqp3k9cb5la60dfskvqlq7k97r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.42366242598-db3ii3pqp3k9cb5la60dfskvqlq7k97r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>42366242598-hvoiub16psr1pv2tpuk9u1n71ai7j58j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDm5iVkUrWtPY0qmHCuaR26SOy3baak5DY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>42366242598</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tazkartiSystem</string>
+	<key>PROJECT_ID</key>
+	<string>tazkarti-bdd8b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tazkarti-bdd8b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:42366242598:ios:12eb1e4fe3bf4e35bf3be7</string>
+</dict>
+</plist>

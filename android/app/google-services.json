@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "42366242598",
+    "project_id": "tazkarti-bdd8b",
+    "storage_bucket": "tazkarti-bdd8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42366242598:android:1eebe0d3f0691104bf3be7",
+        "android_client_info": {
+          "package_name": "com.example.tazkarti_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42366242598-um2gocsdb2uqt0ojleue9soqrhqe6hre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tazkarti_system",
+            "certificate_hash": "64098d36656d044c09741e5fd1469e3ba89a7780"
+          }
+        },
+        {
+          "client_id": "42366242598-l6dcvsbkh0ps313c18nc0qb8ld2pr5so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFc4cWIlpAoCOrrtz9j1A0NfCyjUg98M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42366242598-l6dcvsbkh0ps313c18nc0qb8ld2pr5so.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42366242598-db3ii3pqp3k9cb5la60dfskvqlq7k97r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tazkartiSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
